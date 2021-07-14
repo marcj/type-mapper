@@ -50,7 +50,7 @@
     "objection": "^2.2.15",
     "prisma": "^2.27.0",
     "quartet": "^10.1.0",
-    "redis": "3.0.2",
+    "redis": "3.1.1",
     "reflect-metadata": "^0.1.13",
     "sequelize": "^6.6.2",
     "sqlite3": "^5.0.1",
